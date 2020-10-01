@@ -7,3 +7,8 @@ To setup make sure you put the client Id and secret key in a model/db entry for 
 Do this through admin interface.
 
 Documentation: https://django-allauth.readthedocs.io/en/latest/
+
+If Any Query Please let me know
+
+Thank You
+Md Afsar Ansari
